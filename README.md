@@ -2,6 +2,9 @@
 # Data-Source 
 https://www.kaggle.com/code/saraththilak/ecommerce-customer-service-satisfaction#Dataset-Information:
 
+# Databricks Free Account
+https://login.databricks.com/?dbx_source=www&itm_data=databricks-web-nav&intent=SIGN_UP&l=en-EN&tuuid=bf45c32f-a748-4e2a-8310-30620fa736e2
+
 # EDA
 
 select * from bronze.customer_support_data
